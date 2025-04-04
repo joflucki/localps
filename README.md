@@ -4,6 +4,8 @@
 ![Deno Badge](https://img.shields.io/badge/built%20with-Deno-00894f?logo=deno)
 ![Fresh Badge](https://img.shields.io/badge/built%20with-Fresh-e5c009?logo=fresh)
 ![GitHub last commit](https://img.shields.io/github/last-commit/joflucki/localps?color=purple)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/joflucki/localps/lint.yml?label=lint)
+
 
 
 
