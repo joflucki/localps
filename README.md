@@ -33,7 +33,7 @@ To run Localps locally, you will need to have [Deno](https://deno.land/#installa
     deno task start
     ```
 
-3.  **Open your browser:** Navigate to `http://localhost:8000` (or the port specified in your application).
+3.  **Open your browser:** Navigate to `http://localhost:8000`
 
 ## Contribution
 
